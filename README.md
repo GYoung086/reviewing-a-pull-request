@@ -16,4 +16,5 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 
 
 
-It is so cool. I really cannot wait to play Tetris again.
+It is so cool. I really cannot wait to play Tetris again. Other than that, I will continue on with this activity.
+
